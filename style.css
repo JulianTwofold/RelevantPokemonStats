@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color:white;
+    text-align:center;
+    overflow-y: scroll;
+}
+
+img{
+    width: 10vw;
+    height: 10vw;
+}
+
+a{
+    color: white;
+    text-decoration: none; 
+}
+
+button{
+    width: 13vw;
+    height: 20px;
+    margin: 3px;
+    background-color: #66dd66;
+    border: none;
+}
+
+button:hover, img:hover{
+    cursor: pointer;
+}
+
+.turnedOff{
+    background-color: #773333;
+}
+
+.turnedOn{
+    background-color: #337733;
+}
+
+.invisible{
+    visibility: hidden;
+}
+
+/* DivTable.com */
+.divTable{
+	display: table;
+	width: 95%;
+	margin:auto;
+}
+.divTableRow {
+	display: table-row;
+}
+.divTableCell {
+	border: 1px solid #999999;
+	display: table-cell;
+	padding: 3px 10px;
+    vertical-align: middle;
+    font-size: 20px;
+}
+.divTableHeading {
+	font-weight: bold;
+    font-size: 16px;
+}
+.divTableBody {
+	display: table-row-group;
+}

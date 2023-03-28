@@ -1,0 +1,3350 @@
+[
+    {
+        "name": "zoroark",
+        "abilities": [
+            "illusion"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
+        "stats": [
+            60,
+            105,
+            60,
+            120,
+            60,
+            105
+        ]
+    },
+    {
+        "name": "zangoose",
+        "abilities": [
+            "immunity",
+            "toxic-boost"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/335.png",
+        "stats": [
+            73,
+            115,
+            60,
+            60,
+            60,
+            90
+        ]
+    },
+    {
+        "name": "wo-chien",
+        "abilities": [
+            "tablets-of-ruin"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
+        "stats": [
+            85,
+            85,
+            100,
+            95,
+            135,
+            70
+        ]
+    },
+    {
+        "name": "wigglytuff",
+        "abilities": [
+            "cute-charm",
+            "competitive",
+            "frisk"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+        "stats": [
+            140,
+            70,
+            45,
+            85,
+            50,
+            45
+        ]
+    },
+    {
+        "name": "whiscash",
+        "abilities": [
+            "oblivious",
+            "anticipation",
+            "hydration"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
+        "stats": [
+            110,
+            78,
+            73,
+            76,
+            71,
+            60
+        ]
+    },
+    {
+        "name": "weavile",
+        "abilities": [
+            "pressure",
+            "pickpocket"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
+        "stats": [
+            70,
+            120,
+            65,
+            45,
+            85,
+            125
+        ]
+    },
+    {
+        "name": "volcarona",
+        "abilities": [
+            "flame-body",
+            "swarm"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+        "stats": [
+            85,
+            60,
+            65,
+            135,
+            105,
+            100
+        ]
+    },
+    {
+        "name": "vigoroth",
+        "abilities": [
+            "vital-spirit"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png",
+        "stats": [
+            80,
+            80,
+            80,
+            55,
+            55,
+            90
+        ]
+    },
+    {
+        "name": "vespiquen",
+        "abilities": [
+            "pressure",
+            "unnerve"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
+        "stats": [
+            70,
+            80,
+            102,
+            80,
+            102,
+            40
+        ]
+    },
+    {
+        "name": "venomoth",
+        "abilities": [
+            "shield-dust",
+            "tinted-lens",
+            "wonder-skin"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+        "stats": [
+            70,
+            65,
+            60,
+            90,
+            75,
+            90
+        ]
+    },
+    {
+        "name": "veluza",
+        "abilities": [
+            "mold-breaker",
+            "sharpness"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png",
+        "stats": [
+            90,
+            102,
+            73,
+            78,
+            65,
+            70
+        ]
+    },
+    {
+        "name": "vaporeon",
+        "abilities": [
+            "water-absorb",
+            "hydration"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+        "stats": [
+            130,
+            65,
+            60,
+            110,
+            95,
+            65
+        ]
+    },
+    {
+        "name": "ursaring",
+        "abilities": [
+            "guts",
+            "quick-feet",
+            "unnerve"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+        "stats": [
+            90,
+            130,
+            75,
+            75,
+            75,
+            55
+        ]
+    },
+    {
+        "name": "umbreon",
+        "abilities": [
+            "synchronize",
+            "inner-focus"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+        "stats": [
+            95,
+            65,
+            110,
+            60,
+            130,
+            65
+        ]
+    },
+    {
+        "name": "tyranitar",
+        "abilities": [
+            "sand-stream",
+            "unnerve"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+        "stats": [
+            100,
+            134,
+            110,
+            95,
+            100,
+            61
+        ]
+    },
+    {
+        "name": "tsareena",
+        "abilities": [
+            "leaf-guard",
+            "queenly-majesty",
+            "sweet-veil"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png",
+        "stats": [
+            72,
+            120,
+            98,
+            50,
+            98,
+            72
+        ]
+    },
+    {
+        "name": "tropius",
+        "abilities": [
+            "chlorophyll",
+            "solar-power",
+            "harvest"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+        "stats": [
+            99,
+            68,
+            83,
+            72,
+            87,
+            51
+        ]
+    },
+    {
+        "name": "toxtricity",
+        "abilities": [
+            "punk-rock",
+            "plus",
+            "technician"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+        "stats": [
+            75,
+            98,
+            70,
+            114,
+            70,
+            75
+        ]
+    },
+    {
+        "name": "toxicroak",
+        "abilities": [
+            "anticipation",
+            "dry-skin",
+            "poison-touch"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png",
+        "stats": [
+            83,
+            106,
+            65,
+            86,
+            65,
+            85
+        ]
+    },
+    {
+        "name": "toxapex",
+        "abilities": [
+            "merciless",
+            "limber",
+            "regenerator"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+        "stats": [
+            50,
+            63,
+            152,
+            53,
+            142,
+            35
+        ]
+    },
+    {
+        "name": "torkoal",
+        "abilities": [
+            "white-smoke",
+            "drought",
+            "shell-armor"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+        "stats": [
+            70,
+            85,
+            140,
+            85,
+            70,
+            20
+        ]
+    },
+    {
+        "name": "toedscruel",
+        "abilities": [
+            "mycelium-might"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png",
+        "stats": [
+            80,
+            70,
+            65,
+            80,
+            120,
+            100
+        ]
+    },
+    {
+        "name": "tinkaton",
+        "abilities": [
+            "mold-breaker",
+            "own-tempo",
+            "pickpocket"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+        "stats": [
+            85,
+            75,
+            77,
+            70,
+            105,
+            94
+        ]
+    },
+    {
+        "name": "ting-lu",
+        "abilities": [
+            "vessel-of-ruin"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+        "stats": [
+            155,
+            110,
+            125,
+            55,
+            80,
+            45
+        ]
+    },
+    {
+        "name": "tauros",
+        "abilities": [
+            "intimidate",
+            "anger-point",
+            "sheer-force"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+        "stats": [
+            75,
+            100,
+            95,
+            40,
+            70,
+            110
+        ]
+    },
+    {
+        "name": "tatsugiri",
+        "abilities": [
+            "commander",
+            "storm-drain"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
+        "stats": [
+            68,
+            50,
+            60,
+            120,
+            95,
+            82
+        ]
+    },
+    {
+        "name": "talonflame",
+        "abilities": [
+            "flame-body",
+            "gale-wings"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+        "stats": [
+            78,
+            81,
+            71,
+            74,
+            69,
+            126
+        ]
+    },
+    {
+        "name": "sylveon",
+        "abilities": [
+            "cute-charm",
+            "pixilate"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+        "stats": [
+            95,
+            65,
+            65,
+            110,
+            130,
+            60
+        ]
+    },
+    {
+        "name": "swalot",
+        "abilities": [
+            "liquid-ooze",
+            "sticky-hold",
+            "gluttony"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+        "stats": [
+            100,
+            73,
+            83,
+            73,
+            83,
+            55
+        ]
+    },
+    {
+        "name": "stonjourner",
+        "abilities": [
+            "power-spot"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
+        "stats": [
+            100,
+            125,
+            135,
+            20,
+            20,
+            70
+        ]
+    },
+    {
+        "name": "staraptor",
+        "abilities": [
+            "intimidate",
+            "reckless"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+        "stats": [
+            85,
+            120,
+            70,
+            50,
+            60,
+            100
+        ]
+    },
+    {
+        "name": "stantler",
+        "abilities": [
+            "intimidate",
+            "frisk",
+            "sap-sipper"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
+        "stats": [
+            73,
+            95,
+            62,
+            85,
+            65,
+            85
+        ]
+    },
+    {
+        "name": "spiritomb",
+        "abilities": [
+            "pressure",
+            "infiltrator"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
+        "stats": [
+            50,
+            92,
+            108,
+            92,
+            108,
+            35
+        ]
+    },
+    {
+        "name": "sneasel",
+        "abilities": [
+            "inner-focus",
+            "keen-eye",
+            "pickpocket"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+        "stats": [
+            55,
+            95,
+            55,
+            35,
+            75,
+            115
+        ]
+    },
+    {
+        "name": "slowking",
+        "abilities": [
+            "oblivious",
+            "own-tempo",
+            "regenerator"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+        "stats": [
+            95,
+            75,
+            80,
+            100,
+            110,
+            30
+        ]
+    },
+    {
+        "name": "slowbro",
+        "abilities": [
+            "oblivious",
+            "own-tempo",
+            "regenerator"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+        "stats": [
+            95,
+            75,
+            110,
+            100,
+            80,
+            30
+        ]
+    },
+    {
+        "name": "slither-wing",
+        "abilities": [
+            "protosynthesis"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+        "stats": [
+            85,
+            135,
+            79,
+            85,
+            105,
+            81
+        ]
+    },
+    {
+        "name": "sliggoo",
+        "abilities": [
+            "sap-sipper",
+            "hydration",
+            "gooey"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+        "stats": [
+            68,
+            75,
+            53,
+            83,
+            113,
+            60
+        ]
+    },
+    {
+        "name": "skuntank",
+        "abilities": [
+            "stench",
+            "aftermath",
+            "keen-eye"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+        "stats": [
+            103,
+            93,
+            67,
+            71,
+            61,
+            84
+        ]
+    },
+    {
+        "name": "skeledirge",
+        "abilities": [
+            "blaze",
+            "unaware"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
+        "stats": [
+            104,
+            75,
+            100,
+            110,
+            75,
+            66
+        ]
+    },
+    {
+        "name": "seviper",
+        "abilities": [
+            "shed-skin",
+            "infiltrator"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+        "stats": [
+            73,
+            100,
+            60,
+            100,
+            60,
+            65
+        ]
+    },
+    {
+        "name": "scyther",
+        "abilities": [
+            "swarm",
+            "technician",
+            "steadfast"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+        "stats": [
+            70,
+            110,
+            80,
+            55,
+            80,
+            105
+        ]
+    },
+    {
+        "name": "scream-tail",
+        "abilities": [
+            "protosynthesis"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+        "stats": [
+            115,
+            65,
+            99,
+            65,
+            115,
+            111
+        ]
+    },
+    {
+        "name": "scovillain",
+        "abilities": [
+            "chlorophyll",
+            "insomnia",
+            "moody"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+        "stats": [
+            65,
+            108,
+            65,
+            108,
+            65,
+            75
+        ]
+    },
+    {
+        "name": "scizor",
+        "abilities": [
+            "swarm",
+            "technician",
+            "light-metal"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+        "stats": [
+            70,
+            130,
+            100,
+            55,
+            80,
+            65
+        ]
+    },
+    {
+        "name": "sawsbuck",
+        "abilities": [
+            "chlorophyll",
+            "sap-sipper",
+            "serene-grace"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png",
+        "stats": [
+            80,
+            100,
+            70,
+            60,
+            70,
+            95
+        ]
+    },
+    {
+        "name": "sandy-shocks",
+        "abilities": [
+            "protosynthesis"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
+        "stats": [
+            85,
+            81,
+            97,
+            121,
+            85,
+            101
+        ]
+    },
+    {
+        "name": "sandaconda",
+        "abilities": [
+            "sand-spit",
+            "shed-skin",
+            "sand-veil"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+        "stats": [
+            72,
+            107,
+            125,
+            65,
+            70,
+            71
+        ]
+    },
+    {
+        "name": "salazzle",
+        "abilities": [
+            "corrosion",
+            "oblivious"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png",
+        "stats": [
+            68,
+            64,
+            60,
+            111,
+            60,
+            117
+        ]
+    },
+    {
+        "name": "salamence",
+        "abilities": [
+            "intimidate",
+            "moxie"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+        "stats": [
+            95,
+            135,
+            80,
+            110,
+            80,
+            100
+        ]
+    },
+    {
+        "name": "rotom",
+        "abilities": [
+            "levitate"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
+        "stats": [
+            50,
+            50,
+            77,
+            95,
+            77,
+            91
+        ]
+    },
+    {
+        "name": "roaring-moon",
+        "abilities": [
+            "protosynthesis"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
+        "stats": [
+            105,
+            139,
+            71,
+            55,
+            101,
+            119
+        ]
+    },
+    {
+        "name": "revavroom",
+        "abilities": [
+            "overcoat",
+            "filter"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+        "stats": [
+            80,
+            119,
+            90,
+            54,
+            67,
+            90
+        ]
+    },
+    {
+        "name": "raichu",
+        "abilities": [
+            "static",
+            "lightning-rod"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+        "stats": [
+            60,
+            90,
+            55,
+            90,
+            80,
+            110
+        ]
+    },
+    {
+        "name": "rabsca",
+        "abilities": [
+            "synchronize",
+            "telepathy"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+        "stats": [
+            75,
+            50,
+            85,
+            115,
+            100,
+            45
+        ]
+    },
+    {
+        "name": "qwilfish",
+        "abilities": [
+            "poison-point",
+            "swift-swim",
+            "intimidate"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
+        "stats": [
+            65,
+            95,
+            85,
+            55,
+            55,
+            85
+        ]
+    },
+    {
+        "name": "quaquaval",
+        "abilities": [
+            "torrent",
+            "moxie"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+        "stats": [
+            85,
+            120,
+            80,
+            85,
+            75,
+            85
+        ]
+    },
+    {
+        "name": "pyroar",
+        "abilities": [
+            "rivalry",
+            "unnerve",
+            "moxie"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
+        "stats": [
+            86,
+            68,
+            72,
+            109,
+            66,
+            106
+        ]
+    },
+    {
+        "name": "primeape",
+        "abilities": [
+            "vital-spirit",
+            "anger-point",
+            "defiant"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+        "stats": [
+            65,
+            105,
+            60,
+            60,
+            70,
+            95
+        ]
+    },
+    {
+        "name": "polteageist",
+        "abilities": [
+            "weak-armor",
+            "cursed-body"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png",
+        "stats": [
+            60,
+            65,
+            65,
+            134,
+            114,
+            70
+        ]
+    },
+    {
+        "name": "pincurchin",
+        "abilities": [
+            "lightning-rod",
+            "electric-surge"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png",
+        "stats": [
+            48,
+            101,
+            95,
+            91,
+            85,
+            15
+        ]
+    },
+    {
+        "name": "persian",
+        "abilities": [
+            "limber",
+            "technician",
+            "unnerve"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+        "stats": [
+            65,
+            70,
+            60,
+            65,
+            65,
+            115
+        ]
+    },
+    {
+        "name": "pelipper",
+        "abilities": [
+            "keen-eye",
+            "drizzle",
+            "rain-dish"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
+        "stats": [
+            60,
+            50,
+            100,
+            95,
+            70,
+            65
+        ]
+    },
+    {
+        "name": "pawmot",
+        "abilities": [
+            "volt-absorb",
+            "natural-cure",
+            "iron-fist"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+        "stats": [
+            70,
+            115,
+            70,
+            70,
+            60,
+            105
+        ]
+    },
+    {
+        "name": "passimian",
+        "abilities": [
+            "receiver",
+            "defiant"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png",
+        "stats": [
+            100,
+            120,
+            90,
+            40,
+            60,
+            80
+        ]
+    },
+    {
+        "name": "palossand",
+        "abilities": [
+            "water-compaction",
+            "sand-veil"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
+        "stats": [
+            85,
+            75,
+            110,
+            100,
+            75,
+            35
+        ]
+    },
+    {
+        "name": "palafin",
+        "abilities": [
+            "zero-to-hero"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
+        "stats": [
+            100,
+            70,
+            72,
+            53,
+            62,
+            100
+        ]
+    },
+    {
+        "name": "orthworm",
+        "abilities": [
+            "earth-eater",
+            "sand-veil"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
+        "stats": [
+            70,
+            85,
+            145,
+            60,
+            55,
+            65
+        ]
+    },
+    {
+        "name": "oricorio",
+        "abilities": [
+            "dancer"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
+        "stats": [
+            75,
+            70,
+            70,
+            98,
+            70,
+            93
+        ]
+    },
+    {
+        "name": "oranguru",
+        "abilities": [
+            "inner-focus",
+            "telepathy",
+            "symbiosis"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
+        "stats": [
+            90,
+            60,
+            80,
+            90,
+            110,
+            60
+        ]
+    },
+    {
+        "name": "oinkologne",
+        "abilities": [
+            "lingering-aroma",
+            "gluttony",
+            "thick-fat"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+        "stats": [
+            110,
+            100,
+            75,
+            59,
+            80,
+            65
+        ]
+    },
+    {
+        "name": "noivern",
+        "abilities": [
+            "frisk",
+            "infiltrator",
+            "telepathy"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
+        "stats": [
+            85,
+            70,
+            80,
+            97,
+            80,
+            123
+        ]
+    },
+    {
+        "name": "muk",
+        "abilities": [
+            "stench",
+            "sticky-hold",
+            "poison-touch"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+        "stats": [
+            105,
+            105,
+            75,
+            65,
+            100,
+            50
+        ]
+    },
+    {
+        "name": "mudsdale",
+        "abilities": [
+            "own-tempo",
+            "stamina",
+            "inner-focus"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
+        "stats": [
+            100,
+            125,
+            100,
+            55,
+            85,
+            35
+        ]
+    },
+    {
+        "name": "mismagius",
+        "abilities": [
+            "levitate"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+        "stats": [
+            60,
+            60,
+            60,
+            105,
+            105,
+            105
+        ]
+    },
+    {
+        "name": "misdreavus",
+        "abilities": [
+            "levitate"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
+        "stats": [
+            60,
+            60,
+            60,
+            85,
+            85,
+            85
+        ]
+    },
+    {
+        "name": "mimikyu",
+        "abilities": [
+            "disguise"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+        "stats": [
+            55,
+            90,
+            80,
+            50,
+            105,
+            96
+        ]
+    },
+    {
+        "name": "meowscarada",
+        "abilities": [
+            "overgrow",
+            "protean"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png",
+        "stats": [
+            76,
+            110,
+            70,
+            81,
+            70,
+            123
+        ]
+    },
+    {
+        "name": "maushold",
+        "abilities": [
+            "friend-guard",
+            "cheek-pouch",
+            "technician"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+        "stats": [
+            74,
+            75,
+            70,
+            65,
+            75,
+            111
+        ]
+    },
+    {
+        "name": "masquerain",
+        "abilities": [
+            "intimidate",
+            "unnerve"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png",
+        "stats": [
+            70,
+            60,
+            62,
+            100,
+            82,
+            80
+        ]
+    },
+    {
+        "name": "magnezone",
+        "abilities": [
+            "magnet-pull",
+            "sturdy",
+            "analytic"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
+        "stats": [
+            70,
+            70,
+            115,
+            130,
+            90,
+            60
+        ]
+    },
+    {
+        "name": "magneton",
+        "abilities": [
+            "magnet-pull",
+            "sturdy",
+            "analytic"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
+        "stats": [
+            50,
+            60,
+            95,
+            120,
+            70,
+            70
+        ]
+    },
+    {
+        "name": "mabosstiff",
+        "abilities": [
+            "intimidate",
+            "guard-dog",
+            "stakeout"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+        "stats": [
+            80,
+            120,
+            90,
+            60,
+            70,
+            85
+        ]
+    },
+    {
+        "name": "lycanroc-midday",
+        "abilities": [
+            "keen-eye",
+            "sand-rush",
+            "steadfast"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
+        "stats": [
+            75,
+            115,
+            65,
+            55,
+            65,
+            112
+        ]
+    },
+    {
+        "name": "luxray",
+        "abilities": [
+            "rivalry",
+            "intimidate",
+            "guts"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
+        "stats": [
+            80,
+            120,
+            79,
+            95,
+            79,
+            70
+        ]
+    },
+    {
+        "name": "lurantis",
+        "abilities": [
+            "leaf-guard",
+            "contrary"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png",
+        "stats": [
+            70,
+            105,
+            90,
+            80,
+            90,
+            45
+        ]
+    },
+    {
+        "name": "lumineon",
+        "abilities": [
+            "swift-swim",
+            "storm-drain",
+            "water-veil"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
+        "stats": [
+            69,
+            69,
+            76,
+            69,
+            86,
+            91
+        ]
+    },
+    {
+        "name": "lucario",
+        "abilities": [
+            "steadfast",
+            "inner-focus",
+            "justified"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+        "stats": [
+            70,
+            110,
+            70,
+            115,
+            70,
+            90
+        ]
+    },
+    {
+        "name": "lokix",
+        "abilities": [
+            "swarm",
+            "tinted-lens"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
+        "stats": [
+            71,
+            102,
+            78,
+            52,
+            55,
+            92
+        ]
+    },
+    {
+        "name": "lilligant",
+        "abilities": [
+            "chlorophyll",
+            "own-tempo",
+            "leaf-guard"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png",
+        "stats": [
+            70,
+            60,
+            75,
+            110,
+            75,
+            90
+        ]
+    },
+    {
+        "name": "leafeon",
+        "abilities": [
+            "leaf-guard",
+            "chlorophyll"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
+        "stats": [
+            65,
+            110,
+            130,
+            60,
+            65,
+            95
+        ]
+    },
+    {
+        "name": "krookodile",
+        "abilities": [
+            "intimidate",
+            "moxie",
+            "anger-point"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
+        "stats": [
+            95,
+            117,
+            80,
+            65,
+            70,
+            92
+        ]
+    },
+    {
+        "name": "komala",
+        "abilities": [
+            "comatose"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
+        "stats": [
+            65,
+            115,
+            65,
+            75,
+            95,
+            65
+        ]
+    },
+    {
+        "name": "klefki",
+        "abilities": [
+            "prankster",
+            "magician"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
+        "stats": [
+            57,
+            80,
+            91,
+            80,
+            87,
+            75
+        ]
+    },
+    {
+        "name": "klawf",
+        "abilities": [
+            "anger-shell",
+            "shell-armor",
+            "regenerator"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+        "stats": [
+            70,
+            100,
+            115,
+            35,
+            55,
+            75
+        ]
+    },
+    {
+        "name": "kingambit",
+        "abilities": [
+            "defiant",
+            "supreme-overlord",
+            "pressure"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+        "stats": [
+            100,
+            135,
+            120,
+            60,
+            85,
+            50
+        ]
+    },
+    {
+        "name": "kilowattrel",
+        "abilities": [
+            "wind-power",
+            "volt-absorb",
+            "competitive"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
+        "stats": [
+            70,
+            70,
+            60,
+            105,
+            60,
+            125
+        ]
+    },
+    {
+        "name": "jumpluff",
+        "abilities": [
+            "chlorophyll",
+            "leaf-guard",
+            "infiltrator"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png",
+        "stats": [
+            75,
+            55,
+            70,
+            55,
+            95,
+            110
+        ]
+    },
+    {
+        "name": "jolteon",
+        "abilities": [
+            "volt-absorb",
+            "quick-feet"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+        "stats": [
+            65,
+            65,
+            60,
+            110,
+            95,
+            130
+        ]
+    },
+    {
+        "name": "iron-valiant",
+        "abilities": [
+            "quark-drive"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
+        "stats": [
+            74,
+            130,
+            90,
+            120,
+            60,
+            116
+        ]
+    },
+    {
+        "name": "iron-treads",
+        "abilities": [
+            "quark-drive"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+        "stats": [
+            90,
+            112,
+            120,
+            72,
+            70,
+            106
+        ]
+    },
+    {
+        "name": "iron-thorns",
+        "abilities": [
+            "quark-drive"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+        "stats": [
+            100,
+            134,
+            110,
+            70,
+            84,
+            72
+        ]
+    },
+    {
+        "name": "iron-moth",
+        "abilities": [
+            "quark-drive"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png",
+        "stats": [
+            80,
+            70,
+            60,
+            140,
+            110,
+            110
+        ]
+    },
+    {
+        "name": "iron-jugulis",
+        "abilities": [
+            "quark-drive"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+        "stats": [
+            94,
+            80,
+            86,
+            122,
+            80,
+            108
+        ]
+    },
+    {
+        "name": "iron-hands",
+        "abilities": [
+            "quark-drive"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
+        "stats": [
+            154,
+            140,
+            108,
+            50,
+            68,
+            50
+        ]
+    },
+    {
+        "name": "iron-bundle",
+        "abilities": [
+            "quark-drive"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
+        "stats": [
+            56,
+            80,
+            114,
+            124,
+            60,
+            136
+        ]
+    },
+    {
+        "name": "indeedee",
+        "abilities": [
+            "inner-focus",
+            "synchronize",
+            "psychic-surge"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png",
+        "stats": [
+            60,
+            65,
+            55,
+            105,
+            95,
+            95
+        ]
+    },
+    {
+        "name": "hypno",
+        "abilities": [
+            "insomnia",
+            "forewarn",
+            "inner-focus"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+        "stats": [
+            85,
+            73,
+            70,
+            73,
+            115,
+            67
+        ]
+    },
+    {
+        "name": "hydreigon",
+        "abilities": [
+            "levitate"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+        "stats": [
+            92,
+            105,
+            90,
+            125,
+            90,
+            98
+        ]
+    },
+    {
+        "name": "houndstone",
+        "abilities": [
+            "sand-rush",
+            "fluffy"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
+        "stats": [
+            72,
+            101,
+            100,
+            50,
+            97,
+            68
+        ]
+    },
+    {
+        "name": "houndoom",
+        "abilities": [
+            "early-bird",
+            "flash-fire",
+            "unnerve"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
+        "stats": [
+            75,
+            90,
+            50,
+            110,
+            80,
+            95
+        ]
+    },
+    {
+        "name": "honchkrow",
+        "abilities": [
+            "insomnia",
+            "super-luck",
+            "moxie"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
+        "stats": [
+            100,
+            125,
+            52,
+            105,
+            52,
+            71
+        ]
+    },
+    {
+        "name": "hippowdon",
+        "abilities": [
+            "sand-stream",
+            "sand-force"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+        "stats": [
+            108,
+            112,
+            118,
+            68,
+            72,
+            47
+        ]
+    },
+    {
+        "name": "heracross",
+        "abilities": [
+            "swarm",
+            "guts",
+            "moxie"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+        "stats": [
+            80,
+            125,
+            75,
+            40,
+            95,
+            85
+        ]
+    },
+    {
+        "name": "haxorus",
+        "abilities": [
+            "rivalry",
+            "mold-breaker",
+            "unnerve"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+        "stats": [
+            76,
+            147,
+            90,
+            60,
+            70,
+            97
+        ]
+    },
+    {
+        "name": "hawlucha",
+        "abilities": [
+            "limber",
+            "unburden",
+            "mold-breaker"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
+        "stats": [
+            78,
+            92,
+            75,
+            74,
+            63,
+            118
+        ]
+    },
+    {
+        "name": "hatterene",
+        "abilities": [
+            "healer",
+            "anticipation",
+            "magic-bounce"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+        "stats": [
+            57,
+            90,
+            95,
+            136,
+            103,
+            29
+        ]
+    },
+    {
+        "name": "hariyama",
+        "abilities": [
+            "thick-fat",
+            "guts",
+            "sheer-force"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
+        "stats": [
+            144,
+            120,
+            60,
+            40,
+            60,
+            50
+        ]
+    },
+    {
+        "name": "gyarados",
+        "abilities": [
+            "intimidate",
+            "moxie"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+        "stats": [
+            95,
+            125,
+            79,
+            60,
+            100,
+            81
+        ]
+    },
+    {
+        "name": "grumpig",
+        "abilities": [
+            "thick-fat",
+            "own-tempo",
+            "gluttony"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
+        "stats": [
+            80,
+            45,
+            65,
+            90,
+            110,
+            80
+        ]
+    },
+    {
+        "name": "grimmsnarl",
+        "abilities": [
+            "prankster",
+            "frisk",
+            "pickpocket"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png",
+        "stats": [
+            95,
+            120,
+            65,
+            95,
+            75,
+            60
+        ]
+    },
+    {
+        "name": "greedent",
+        "abilities": [
+            "cheek-pouch",
+            "gluttony"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
+        "stats": [
+            120,
+            95,
+            95,
+            55,
+            75,
+            20
+        ]
+    },
+    {
+        "name": "great-tusk",
+        "abilities": [
+            "protosynthesis"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+        "stats": [
+            115,
+            131,
+            131,
+            53,
+            53,
+            87
+        ]
+    },
+    {
+        "name": "grafaiai",
+        "abilities": [
+            "unburden",
+            "poison-touch",
+            "prankster"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png",
+        "stats": [
+            63,
+            95,
+            65,
+            80,
+            72,
+            110
+        ]
+    },
+    {
+        "name": "gothitelle",
+        "abilities": [
+            "frisk",
+            "competitive",
+            "shadow-tag"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
+        "stats": [
+            70,
+            55,
+            95,
+            95,
+            110,
+            65
+        ]
+    },
+    {
+        "name": "goodra",
+        "abilities": [
+            "sap-sipper",
+            "hydration",
+            "gooey"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+        "stats": [
+            90,
+            100,
+            70,
+            110,
+            150,
+            80
+        ]
+    },
+    {
+        "name": "golduck",
+        "abilities": [
+            "damp",
+            "cloud-nine",
+            "swift-swim"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+        "stats": [
+            80,
+            82,
+            78,
+            95,
+            80,
+            85
+        ]
+    },
+    {
+        "name": "gogoat",
+        "abilities": [
+            "sap-sipper",
+            "grass-pelt"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+        "stats": [
+            123,
+            100,
+            62,
+            97,
+            81,
+            68
+        ]
+    },
+    {
+        "name": "glimmora",
+        "abilities": [
+            "toxic-debris",
+            "corrosion"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
+        "stats": [
+            83,
+            55,
+            90,
+            130,
+            81,
+            86
+        ]
+    },
+    {
+        "name": "glalie",
+        "abilities": [
+            "inner-focus",
+            "ice-body",
+            "moody"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
+        "stats": [
+            80,
+            80,
+            80,
+            80,
+            80,
+            80
+        ]
+    },
+    {
+        "name": "glaceon",
+        "abilities": [
+            "snow-cloak",
+            "ice-body"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+        "stats": [
+            65,
+            60,
+            110,
+            130,
+            95,
+            65
+        ]
+    },
+    {
+        "name": "girafarig",
+        "abilities": [
+            "inner-focus",
+            "early-bird",
+            "sap-sipper"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png",
+        "stats": [
+            70,
+            80,
+            65,
+            90,
+            65,
+            85
+        ]
+    },
+    {
+        "name": "gholdengo",
+        "abilities": [
+            "good-as-gold"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+        "stats": [
+            87,
+            60,
+            95,
+            133,
+            91,
+            84
+        ]
+    },
+    {
+        "name": "gengar",
+        "abilities": [
+            "cursed-body"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+        "stats": [
+            60,
+            65,
+            60,
+            130,
+            75,
+            110
+        ]
+    },
+    {
+        "name": "gastrodon",
+        "abilities": [
+            "sticky-hold",
+            "storm-drain",
+            "sand-force"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png",
+        "stats": [
+            111,
+            83,
+            68,
+            92,
+            82,
+            39
+        ]
+    },
+    {
+        "name": "garganacl",
+        "abilities": [
+            "purifying-salt",
+            "sturdy",
+            "clear-body"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
+        "stats": [
+            100,
+            100,
+            130,
+            45,
+            90,
+            35
+        ]
+    },
+    {
+        "name": "gardevoir",
+        "abilities": [
+            "synchronize",
+            "trace",
+            "telepathy"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+        "stats": [
+            68,
+            65,
+            65,
+            125,
+            115,
+            80
+        ]
+    },
+    {
+        "name": "garchomp",
+        "abilities": [
+            "sand-veil",
+            "rough-skin"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+        "stats": [
+            108,
+            130,
+            95,
+            80,
+            85,
+            102
+        ]
+    },
+    {
+        "name": "gallade",
+        "abilities": [
+            "steadfast",
+            "sharpness",
+            "justified"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+        "stats": [
+            68,
+            125,
+            65,
+            65,
+            115,
+            80
+        ]
+    },
+    {
+        "name": "frosmoth",
+        "abilities": [
+            "shield-dust",
+            "ice-scales"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png",
+        "stats": [
+            70,
+            65,
+            60,
+            125,
+            90,
+            65
+        ]
+    },
+    {
+        "name": "froslass",
+        "abilities": [
+            "snow-cloak",
+            "cursed-body"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
+        "stats": [
+            70,
+            80,
+            70,
+            80,
+            70,
+            110
+        ]
+    },
+    {
+        "name": "forretress",
+        "abilities": [
+            "sturdy",
+            "overcoat"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+        "stats": [
+            75,
+            90,
+            140,
+            60,
+            60,
+            40
+        ]
+    },
+    {
+        "name": "flutter-mane",
+        "abilities": [
+            "protosynthesis"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
+        "stats": [
+            55,
+            55,
+            55,
+            135,
+            135,
+            135
+        ]
+    },
+    {
+        "name": "florges",
+        "abilities": [
+            "flower-veil",
+            "symbiosis"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
+        "stats": [
+            78,
+            65,
+            68,
+            112,
+            154,
+            75
+        ]
+    },
+    {
+        "name": "floatzel",
+        "abilities": [
+            "swift-swim",
+            "water-veil"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
+        "stats": [
+            85,
+            105,
+            55,
+            85,
+            50,
+            115
+        ]
+    },
+    {
+        "name": "flareon",
+        "abilities": [
+            "flash-fire",
+            "guts"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+        "stats": [
+            65,
+            130,
+            60,
+            95,
+            110,
+            65
+        ]
+    },
+    {
+        "name": "flapple",
+        "abilities": [
+            "ripen",
+            "gluttony",
+            "hustle"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
+        "stats": [
+            70,
+            110,
+            80,
+            95,
+            60,
+            70
+        ]
+    },
+    {
+        "name": "flamigo",
+        "abilities": [
+            "scrappy",
+            "tangled-feet",
+            "costar"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
+        "stats": [
+            82,
+            115,
+            74,
+            75,
+            64,
+            90
+        ]
+    },
+    {
+        "name": "farigiraf",
+        "abilities": [
+            "cud-chew",
+            "armor-tail",
+            "sap-sipper"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+        "stats": [
+            120,
+            90,
+            70,
+            110,
+            70,
+            60
+        ]
+    },
+    {
+        "name": "falinks",
+        "abilities": [
+            "battle-armor",
+            "defiant"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+        "stats": [
+            65,
+            100,
+            100,
+            70,
+            60,
+            75
+        ]
+    },
+    {
+        "name": "espeon",
+        "abilities": [
+            "synchronize",
+            "magic-bounce"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+        "stats": [
+            65,
+            65,
+            60,
+            130,
+            95,
+            110
+        ]
+    },
+    {
+        "name": "espathra",
+        "abilities": [
+            "opportunist",
+            "frisk",
+            "speed-boost"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
+        "stats": [
+            95,
+            60,
+            60,
+            101,
+            60,
+            105
+        ]
+    },
+    {
+        "name": "electrode",
+        "abilities": [
+            "soundproof",
+            "static",
+            "aftermath"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+        "stats": [
+            60,
+            50,
+            70,
+            80,
+            80,
+            150
+        ]
+    },
+    {
+        "name": "eiscue",
+        "abilities": [
+            "ice-face"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
+        "stats": [
+            75,
+            80,
+            110,
+            65,
+            90,
+            50
+        ]
+    },
+    {
+        "name": "eelektross",
+        "abilities": [
+            "levitate"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png",
+        "stats": [
+            85,
+            115,
+            80,
+            105,
+            80,
+            50
+        ]
+    },
+    {
+        "name": "dudunsparce",
+        "abilities": [
+            "serene-grace",
+            "run-away",
+            "rattled"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
+        "stats": [
+            125,
+            100,
+            80,
+            85,
+            75,
+            55
+        ]
+    },
+    {
+        "name": "drifblim",
+        "abilities": [
+            "aftermath",
+            "unburden",
+            "flare-boost"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
+        "stats": [
+            150,
+            80,
+            44,
+            90,
+            54,
+            80
+        ]
+    },
+    {
+        "name": "drednaw",
+        "abilities": [
+            "strong-jaw",
+            "shell-armor",
+            "swift-swim"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+        "stats": [
+            90,
+            115,
+            90,
+            48,
+            68,
+            74
+        ]
+    },
+    {
+        "name": "dragonite",
+        "abilities": [
+            "inner-focus",
+            "multiscale"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+        "stats": [
+            91,
+            134,
+            95,
+            100,
+            100,
+            80
+        ]
+    },
+    {
+        "name": "dragapult",
+        "abilities": [
+            "clear-body",
+            "infiltrator",
+            "cursed-body"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+        "stats": [
+            88,
+            120,
+            75,
+            100,
+            75,
+            142
+        ]
+    },
+    {
+        "name": "dragalge",
+        "abilities": [
+            "poison-point",
+            "poison-touch",
+            "adaptability"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
+        "stats": [
+            65,
+            75,
+            90,
+            97,
+            123,
+            44
+        ]
+    },
+    {
+        "name": "donphan",
+        "abilities": [
+            "sturdy",
+            "sand-veil"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
+        "stats": [
+            90,
+            120,
+            120,
+            60,
+            60,
+            50
+        ]
+    },
+    {
+        "name": "dondozo",
+        "abilities": [
+            "unaware",
+            "oblivious",
+            "water-veil"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png",
+        "stats": [
+            150,
+            100,
+            115,
+            65,
+            65,
+            35
+        ]
+    },
+    {
+        "name": "dedenne",
+        "abilities": [
+            "cheek-pouch",
+            "pickup",
+            "plus"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+        "stats": [
+            67,
+            58,
+            57,
+            81,
+            67,
+            101
+        ]
+    },
+    {
+        "name": "dachsbun",
+        "abilities": [
+            "well-baked-body",
+            "aroma-veil"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+        "stats": [
+            57,
+            80,
+            115,
+            50,
+            80,
+            95
+        ]
+    },
+    {
+        "name": "cyclizar",
+        "abilities": [
+            "shed-skin",
+            "regenerator"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
+        "stats": [
+            70,
+            95,
+            65,
+            85,
+            65,
+            121
+        ]
+    },
+    {
+        "name": "cryogonal",
+        "abilities": [
+            "levitate"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png",
+        "stats": [
+            80,
+            50,
+            50,
+            95,
+            135,
+            105
+        ]
+    },
+    {
+        "name": "crabominable",
+        "abilities": [
+            "hyper-cutter",
+            "iron-fist",
+            "anger-point"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
+        "stats": [
+            97,
+            132,
+            77,
+            62,
+            67,
+            43
+        ]
+    },
+    {
+        "name": "corviknight",
+        "abilities": [
+            "pressure",
+            "unnerve",
+            "mirror-armor"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+        "stats": [
+            98,
+            87,
+            105,
+            53,
+            85,
+            67
+        ]
+    },
+    {
+        "name": "copperajah",
+        "abilities": [
+            "sheer-force",
+            "heavy-metal"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png",
+        "stats": [
+            122,
+            130,
+            69,
+            80,
+            69,
+            30
+        ]
+    },
+    {
+        "name": "coalossal",
+        "abilities": [
+            "steam-engine",
+            "flame-body",
+            "flash-fire"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
+        "stats": [
+            110,
+            80,
+            120,
+            80,
+            90,
+            30
+        ]
+    },
+    {
+        "name": "cloyster",
+        "abilities": [
+            "shell-armor",
+            "skill-link",
+            "overcoat"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+        "stats": [
+            50,
+            95,
+            180,
+            85,
+            45,
+            70
+        ]
+    },
+    {
+        "name": "clodsire",
+        "abilities": [
+            "poison-point",
+            "water-absorb",
+            "unaware"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
+        "stats": [
+            130,
+            75,
+            60,
+            45,
+            100,
+            20
+        ]
+    },
+    {
+        "name": "clawitzer",
+        "abilities": [
+            "mega-launcher"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+        "stats": [
+            71,
+            73,
+            88,
+            120,
+            89,
+            59
+        ]
+    },
+    {
+        "name": "chien-pao",
+        "abilities": [
+            "sword-of-ruin"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
+        "stats": [
+            80,
+            120,
+            80,
+            90,
+            65,
+            135
+        ]
+    },
+    {
+        "name": "chi-yu",
+        "abilities": [
+            "beads-of-ruin"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+        "stats": [
+            55,
+            80,
+            80,
+            135,
+            120,
+            100
+        ]
+    },
+    {
+        "name": "cetitan",
+        "abilities": [
+            "thick-fat",
+            "slush-rush",
+            "sheer-force"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+        "stats": [
+            170,
+            113,
+            65,
+            45,
+            55,
+            73
+        ]
+    },
+    {
+        "name": "ceruledge",
+        "abilities": [
+            "flash-fire",
+            "weak-armor"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+        "stats": [
+            75,
+            125,
+            80,
+            60,
+            100,
+            85
+        ]
+    },
+    {
+        "name": "camerupt",
+        "abilities": [
+            "magma-armor",
+            "solid-rock",
+            "anger-point"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png",
+        "stats": [
+            70,
+            100,
+            70,
+            105,
+            75,
+            40
+        ]
+    },
+    {
+        "name": "cacturne",
+        "abilities": [
+            "sand-veil",
+            "water-absorb"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+        "stats": [
+            70,
+            115,
+            60,
+            115,
+            60,
+            55
+        ]
+    },
+    {
+        "name": "bruxish",
+        "abilities": [
+            "dazzling",
+            "strong-jaw",
+            "wonder-skin"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+        "stats": [
+            68,
+            105,
+            70,
+            70,
+            70,
+            92
+        ]
+    },
+    {
+        "name": "brute-bonnet",
+        "abilities": [
+            "protosynthesis"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
+        "stats": [
+            111,
+            127,
+            99,
+            79,
+            99,
+            55
+        ]
+    },
+    {
+        "name": "bronzong",
+        "abilities": [
+            "levitate",
+            "heatproof",
+            "heavy-metal"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
+        "stats": [
+            67,
+            89,
+            116,
+            79,
+            116,
+            33
+        ]
+    },
+    {
+        "name": "breloom",
+        "abilities": [
+            "effect-spore",
+            "poison-heal",
+            "technician"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+        "stats": [
+            60,
+            130,
+            80,
+            60,
+            60,
+            70
+        ]
+    },
+    {
+        "name": "braviary",
+        "abilities": [
+            "keen-eye",
+            "sheer-force",
+            "defiant"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png",
+        "stats": [
+            100,
+            123,
+            75,
+            57,
+            75,
+            80
+        ]
+    },
+    {
+        "name": "brambleghast",
+        "abilities": [
+            "wind-rider",
+            "infiltrator"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
+        "stats": [
+            55,
+            115,
+            70,
+            80,
+            70,
+            90
+        ]
+    },
+    {
+        "name": "bombirdier",
+        "abilities": [
+            "big-pecks",
+            "keen-eye",
+            "rocky-payload"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
+        "stats": [
+            70,
+            103,
+            85,
+            60,
+            85,
+            82
+        ]
+    },
+    {
+        "name": "bisharp",
+        "abilities": [
+            "defiant",
+            "inner-focus",
+            "pressure"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+        "stats": [
+            65,
+            125,
+            100,
+            60,
+            70,
+            70
+        ]
+    },
+    {
+        "name": "bellibolt",
+        "abilities": [
+            "electromorphosis",
+            "static",
+            "damp"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+        "stats": [
+            109,
+            64,
+            91,
+            103,
+            83,
+            45
+        ]
+    },
+    {
+        "name": "beartic",
+        "abilities": [
+            "snow-cloak",
+            "slush-rush",
+            "swift-swim"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+        "stats": [
+            95,
+            130,
+            80,
+            70,
+            80,
+            50
+        ]
+    },
+    {
+        "name": "baxcalibur",
+        "abilities": [
+            "thermal-exchange",
+            "ice-body"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
+        "stats": [
+            115,
+            145,
+            92,
+            75,
+            86,
+            87
+        ]
+    },
+    {
+        "name": "basculin",
+        "abilities": [
+            "reckless",
+            "adaptability",
+            "mold-breaker"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+        "stats": [
+            70,
+            92,
+            65,
+            80,
+            55,
+            98
+        ]
+    },
+    {
+        "name": "barraskewda",
+        "abilities": [
+            "swift-swim",
+            "propeller-tail"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
+        "stats": [
+            61,
+            123,
+            60,
+            60,
+            50,
+            136
+        ]
+    },
+    {
+        "name": "banette",
+        "abilities": [
+            "insomnia",
+            "frisk",
+            "cursed-body"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png",
+        "stats": [
+            64,
+            115,
+            65,
+            83,
+            63,
+            65
+        ]
+    },
+    {
+        "name": "avalugg",
+        "abilities": [
+            "own-tempo",
+            "ice-body",
+            "sturdy"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+        "stats": [
+            95,
+            117,
+            184,
+            44,
+            46,
+            28
+        ]
+    },
+    {
+        "name": "armarouge",
+        "abilities": [
+            "flash-fire",
+            "weak-armor"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+        "stats": [
+            85,
+            60,
+            100,
+            125,
+            80,
+            75
+        ]
+    },
+    {
+        "name": "arcanine",
+        "abilities": [
+            "intimidate",
+            "flash-fire",
+            "justified"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+        "stats": [
+            90,
+            110,
+            80,
+            100,
+            80,
+            95
+        ]
+    },
+    {
+        "name": "arboliva",
+        "abilities": [
+            "seed-sower",
+            "harvest"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
+        "stats": [
+            78,
+            69,
+            90,
+            125,
+            109,
+            39
+        ]
+    },
+    {
+        "name": "appletun",
+        "abilities": [
+            "ripen",
+            "gluttony",
+            "thick-fat"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
+        "stats": [
+            110,
+            85,
+            80,
+            100,
+            80,
+            30
+        ]
+    },
+    {
+        "name": "annihilape",
+        "abilities": [
+            "vital-spirit",
+            "inner-focus",
+            "defiant"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
+        "stats": [
+            110,
+            115,
+            80,
+            50,
+            90,
+            90
+        ]
+    },
+    {
+        "name": "ampharos",
+        "abilities": [
+            "static",
+            "plus"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
+        "stats": [
+            90,
+            75,
+            85,
+            115,
+            90,
+            55
+        ]
+    },
+    {
+        "name": "amoonguss",
+        "abilities": [
+            "effect-spore",
+            "regenerator"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
+        "stats": [
+            114,
+            85,
+            70,
+            85,
+            80,
+            30
+        ]
+    },
+    {
+        "name": "altaria",
+        "abilities": [
+            "natural-cure",
+            "cloud-nine"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+        "stats": [
+            75,
+            70,
+            90,
+            70,
+            105,
+            80
+        ]
+    },
+    {
+        "name": "alomomola",
+        "abilities": [
+            "healer",
+            "hydration",
+            "regenerator"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+        "stats": [
+            165,
+            75,
+            80,
+            40,
+            45,
+            65
+        ]
+    },
+    {
+        "name": "abomasnow",
+        "abilities": [
+            "snow-warning",
+            "soundproof"
+        ],
+        "imageSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+        "stats": [
+            90,
+            92,
+            75,
+            92,
+            85,
+            60
+        ]
+    }
+]
