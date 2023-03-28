@@ -41,6 +41,10 @@ button:hover, img:hover{
     visibility: hidden;
 }
 
+.shortText{
+    display: none;
+}
+
 /* DivTable.com */
 .divTable{
 	display: table;
@@ -63,4 +67,27 @@ button:hover, img:hover{
 }
 .divTableBody {
 	display: table-row-group;
+}
+
+@media only screen and (max-width: 840px) {
+    .divTableCell {
+        padding: 2px 3px;
+        font-size: 13px;
+    }
+    .divTableHeading {
+        font-size: 13px;
+    }
+    button{
+        font-size: 10px;
+    }
+    img{
+        width: 8vw;
+        height: 8vw;
+    }
+    .fullText{
+        display: none;
+    }
+    .shortText{
+        display: unset;
+    }
 }
