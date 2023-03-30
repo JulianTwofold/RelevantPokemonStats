@@ -1,162 +1,183 @@
-body{
+body {
     margin: 0;
     padding: 0;
     font-family: Arial;
     background-color: black;
-    color:white;
-    text-align:center;
+    color: white;
+    text-align: center;
     overflow-y: scroll;
     overflow-x: hidden;
 }
 
-img{
+img {
     width: 10vw;
     height: 10vw;
     max-width: 100px;
     max-height: 100px;
 }
 
-a{
+a {
     color: white;
-    text-decoration: none; 
+    text-decoration: none;
 }
 
-button{
+button {
     width: 13vw;
     height: calc(8px + 1vw);
     margin: 3px;
-    font-size:calc(8px + 0.5vw);
+    font-size: calc(8px + 0.5vw);
     background-color: #66dd66;
     border: none;
-    font-weight:bold;
+    font-weight: bold;
     vertical-align: middle;
     white-space: nowrap;
     max-width: 150px;
 }
 
-button:hover, img:hover{
+button:hover,
+img:hover {
     cursor: pointer;
 }
 
-.turnedOff{
+.turnedOff {
     background-color: #773333;
 }
 
-.turnedOn{
+.turnedOn {
     background-color: #337733;
 }
 
-.invisible{
+.invisible {
     visibility: hidden;
 }
 
-.shortText{
+.shortText {
     display: none;
 }
 
 /* DivTable.com */
-.divTable{
-	display: table;
-	width: 95%;
-	margin:auto;
-    padding-bottom:2.5vw;
-    max-width:1000px;
+.divTable {
+    display: table;
+    width: 95%;
+    margin: auto;
+    padding-bottom: 2.5vw;
+    max-width: 1000px;
 }
+
 .divTableRow {
-	display: table-row;
+    display: table-row;
 }
+
 .divTableCell {
-	border: 1px solid #999999;
-	display: table-cell;
-	padding: 3px 10px;
+    border: 1px solid #999999;
+    display: table-cell;
+    padding: 3px 10px;
     vertical-align: middle;
     font-size: calc(6px + 0.8vw);
 }
+
 .divTableHeading {
-	font-weight: bold;
-    font-size:calc(6px + 0.6vw);
+    font-weight: bold;
+    font-size: calc(6px + 0.6vw);
 }
+
 .divTableBody {
-	display: table-row-group;
+    display: table-row-group;
 }
 
 @media only screen and (max-width : 850px) {
-    h1{
+    h1 {
         margin-top: 10px;
-        margin-bottom:12px;
+        margin-bottom: 12px;
     }
+
     .divTableCell {
         padding: 2px 3px;
     }
-    img{
+
+    img {
         width: 8vw;
         height: 8vw;
     }
-    .fullText{
+
+    .fullText {
         display: none;
     }
-    .shortText{
+
+    .shortText {
         display: unset;
     }
-    body{
+
+    body {
         width: 110%;
         height: 110%;
         transform-origin: top left;
-        transform: scale(91%); 
+        transform: scale(91%);
         margin-bottom: -999%;
     }
 }
 
 @media only screen and (max-width : 610px) {
-    h1{
+    h1 {
         margin-top: 8px;
-        margin-bottom:10px;
+        margin-bottom: 10px;
     }
+
     .divTableCell {
         font-size: 12px;
     }
+
     .divTableHeading {
         font-size: 11px;
     }
-    button{
+
+    button {
         width: 15.5vw;
         margin: 2px;
     }
-    body{
+
+    body {
         width: 116%;
         height: 116%;
-        transform: scale(86%); 
+        transform: scale(86%);
     }
 }
 
 @media only screen and (max-width : 450px) {
-    h1{
+    h1 {
         margin-top: 5px;
-        margin-bottom:-2px;
-        font-size:20px;
+        margin-bottom: -2px;
+        font-size: 20px;
     }
+
     .divTableCell {
         font-size: 10px;
     }
+
     .divTableHeading {
         font-size: 11px;
     }
-    button{
+
+    button {
         margin: 1px;
         margin-bottom: -15px;
-        font-size:11px;
+        font-size: 11px;
     }
+
     .divTableCell {
         padding: 1px 1px;
         font-size: 10px;
     }
+
     .divTableHeading {
         font-size: 10px;
     }
-    button{
+
+    button {
         font-size: 10px;
     }
-    img{
+
+    img {
         width: 5vw;
         height: 5vw;
     }
@@ -165,82 +186,98 @@ button:hover, img:hover{
 /* Mobile */
 
 @media only screen and (max-device-width : 850px) {
-    h1{
+    h1 {
         margin-top: 10px;
-        margin-bottom:12px;
+        margin-bottom: 12px;
     }
+
     .divTableCell {
         padding: 2px 3px;
     }
-    img{
+
+    img {
         width: 8vw;
         height: 8vw;
     }
-    .fullText{
+
+    .fullText {
         display: none;
     }
-    .shortText{
+
+    .shortText {
         display: unset;
     }
-    body{
+
+    body {
         width: 110%;
         height: 110%;
         transform-origin: top left;
-        transform: scale(91%); 
+        transform: scale(91%);
         margin-bottom: -999%;
     }
 }
 
 @media only screen and (max-device-width : 610px) {
-    h1{
+    h1 {
         margin-top: 8px;
-        margin-bottom:10px;
+        margin-bottom: 10px;
     }
+
     .divTableCell {
         font-size: 12px;
     }
+
     .divTableHeading {
         font-size: 11px;
     }
-    button{
+
+    button {
         width: 15.5vw;
         margin: 2px;
     }
-    body{
+
+    body {
         width: 116%;
         height: 116%;
-        transform: scale(86%); 
+        transform: scale(86%);
     }
 }
 
 @media only screen and (max-device-width : 450px) {
-    h1{
+    h1 {
         margin-top: 5px;
-        margin-bottom:-2px;
-        font-size:20px;
+        margin-bottom: -2px;
+        font-size: 20px;
     }
+
     .divTableCell {
         font-size: 10px;
     }
+
     .divTableHeading {
         font-size: 11px;
     }
-    button{
+
+    button {
         margin: 1px;
         margin-bottom: -15px;
-        font-size:11px;
+        font-size: 11px;
     }
+
     .divTableCell {
         padding: 1px 1px;
         font-size: 10px;
     }
+
     .divTableHeading {
         font-size: 10px;
     }
-    button{
+
+    button {
         font-size: 10px;
     }
-    img{
+
+    img {
         width: 5vw;
         height: 5vw;
     }
