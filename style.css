@@ -12,6 +12,8 @@ body{
 img{
     width: 10vw;
     height: 10vw;
+    max-width: 100px;
+    max-height: 100px;
 }
 
 a{
@@ -21,14 +23,15 @@ a{
 
 button{
     width: 13vw;
-    height: calc(8px + 2vw);
+    height: calc(8px + 1vw);
     margin: 3px;
-    font-size:calc(4px + 1vw);
+    font-size:calc(8px + 0.5vw);
     background-color: #66dd66;
     border: none;
     font-weight:bold;
     vertical-align: middle;
     white-space: nowrap;
+    max-width: 150px;
 }
 
 button:hover, img:hover{
@@ -57,6 +60,7 @@ button:hover, img:hover{
 	width: 95%;
 	margin:auto;
     padding-bottom:2.5vw;
+    max-width:1000px;
 }
 .divTableRow {
 	display: table-row;
@@ -66,11 +70,11 @@ button:hover, img:hover{
 	display: table-cell;
 	padding: 3px 10px;
     vertical-align: middle;
-    font-size: calc(4px + 1.6vw);
+    font-size: calc(6px + 0.8vw);
 }
 .divTableHeading {
 	font-weight: bold;
-    font-size:calc(4px + 1.2vw);
+    font-size:calc(6px + 0.6vw);
 }
 .divTableBody {
 	display: table-row-group;
@@ -83,13 +87,6 @@ button:hover, img:hover{
     }
     .divTableCell {
         padding: 2px 3px;
-        font-size: 17px;
-    }
-    .divTableHeading {
-        font-size: 15px;
-    }
-    button{
-        font-size: 15px;
     }
     img{
         width: 8vw;
@@ -119,7 +116,7 @@ button:hover, img:hover{
         font-size: 12px;
     }
     .divTableHeading {
-        font-size: 12px;
+        font-size: 11px;
     }
     button{
         width: 15.5vw;
@@ -174,13 +171,6 @@ button:hover, img:hover{
     }
     .divTableCell {
         padding: 2px 3px;
-        font-size: 17px;
-    }
-    .divTableHeading {
-        font-size: 15px;
-    }
-    button{
-        font-size: 15px;
     }
     img{
         width: 8vw;
@@ -210,7 +200,7 @@ button:hover, img:hover{
         font-size: 12px;
     }
     .divTableHeading {
-        font-size: 12px;
+        font-size: 11px;
     }
     button{
         width: 15.5vw;
